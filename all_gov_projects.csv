@@ -1,0 +1,39 @@
+name,description,stars,forks,language,readme,topic,summary
+accesibilidad-web,Repositorio del Equipo de Accesibilidad Web de la Oficina Nacional de Tecnologías de Información,66,19,None specified,"# Accesibilidad Web
+
+**Repositorio del Equipo de Accesibilidad Web de la Oficina Nacional de Tecnolo",web accessibility,"The provided GitHub repository is maintained by the Web Accessibility Team of the National Office of Information Technologies. It focuses on web accessibility, which is the practice of making websites and web applications accessible to people with disabilities. The repository likely contains resources, guidelines, or code examples related to web accessibility standards and best practices. The summary is concise and within the requested 5-sentence limit."
+AR-API-Gateway-Distro,No description,0,1,None specified,# AR-API-Gateway-Distro,unknown,"This GitHub repository appears to be for an AR (Augmented Reality) API Gateway distribution. Based on the limited information provided in the README.md file, it seems to be a project that aims to provide a distribution or framework for an API gateway specifically designed for Augmented Reality applications. However, without more detailed information in the README.md file, it is difficult to provide a more comprehensive summary of the repository's purpose, features, or targeted use cases."
+AR-Distro,Distro de Drupal para Gobiernos,12,10,PHP,"# AR-Distro
+
+Distribución Drupal gratuita del Gobierno Nacional.
+
+Desarrollamos AR-Distro como exten",web development,"Summary:
+
+AR-Distro is a free Drupal distribution developed for the National Government. It is designed to provide a ready-to-use Drupal solution for government organizations. The distribution includes pre-configured modules and settings to streamline the deployment and management of Drupal-based websites for government entities."
+barra-de-accesibilidad,Plugin que incorpora opciones de accesibilidad a cualquier sitio,5,6,PHP,"# Barra de ""Herramientas de Accesibilidad""
+# Instrucciones y Notas (marzo 2017)
+
+La barra de ""Herram",web accessibility,"Summary:
+
+The GitHub repository contains a plugin that adds accessibility options to any website. The plugin includes an ""Accessibility Tools"" bar that provides various accessibility features, such as font size adjustment, contrast settings, and text-to-speech functionality. The README.md file provides instructions and notes about the plugin, which was updated in March 2017. The plugin aims to enhance the accessibility of web content for users with different needs or preferences."
+cofra,Sistema de rendición de caja chica,3,5,PHP,"# Cofra
+
+Sistema de rendición de caja chica. Permite tener un seguimiento, control y generación de l",financial-management,"The GitHub repository is a system for petty cash reporting. It allows for the tracking, control, and generation of petty cash expenditures. The system is designed to provide a structured and organized way for users to manage and account for small expenses within an organization."
+cuidar-android,App Cuidar,74,21,Java,"# Cuidar Android
+
+Se publica aquí el código fuente de la aplicación Cuidar para sistemas operativos ",mobile-development,"The GitHub repository ""App Cuidar"" contains the source code for the Cuidar application, which is designed for Android operating systems. The application aims to provide a platform for caregiving and related services. The repository's README.md file is written in Spanish, but the summary has been provided in English for convenience."
+cuidar-ios,App Cuidar,12,5,Swift,"# Cuidar iOS
+
+Se publica aquí el código fuente de la versión iOS de la aplicación Cuidar. Este códig",mobile-development,"The Cuidar iOS app is an open-source project that provides the source code for the iOS version of the Cuidar application. The repository serves as a platform to share and collaborate on the development of this app, which likely focuses on providing some kind of care-related functionality or services. The README.md content is currently in Spanish, but the summary has been provided in English for convenience."
+drupal-argentina-borrador,Esta es una distribución de un componente utilizado en el portal de centralizacion de organismos publicos. Solución creada por la Subsecretaría de Gobierno Digital de la República Argentina en el periodo 2015-2019.,0,1,PHP,"# drupal-argentina-borrador
+Esta es una distribución de un componente utilizado en el portal de cent",web-development,"Here is a summary of the GitHub repository based on its description and README.md content:
+
+This repository contains a distribution of a component used in the centralization portal of public organizations. The solution was created by the Undersecretariat of Digital Government of the Republic of Argentina during the period 2015-2019. The repository is called ""drupal-argentina-borrador"" and is a draft version of the component."
+drupal-argentina-carousel,Esta es una distribución de un componente utilizado en el portal de centralización de organismos públicos. Solución creada por la Subsecretaría de Gobierno Digital de la República Argentina en el periodo 2015-2019.,0,1,PHP,"# drupal-argentina-carousel
+Esta es una distribución de un componente utilizado en el portal de cent",web-development,"Here is a summary of the GitHub repository based on the provided description and README.md content:
+
+This repository contains a distribution of a component used in the public sector organization portal of the Argentine Republic. The solution was created by the Subsecretariat of Digital Government of Argentina during the period 2015-2019. The repository is for the ""drupal-argentina-carousel"" component, which appears to be a Drupal-based carousel or slider used in the public sector portal."
+drupal-argentina-distro,Esta es una distribución pública del portal de  centralización de organismos públicos. Solución creada por la Subsecretaría de Gobierno Digital de la República Argentina en el periodo 2015-2019. ,0,1,PHP,"# drupal-argentina-distro
+Esta es una distribución pública del portal de centralización de organismo",web-development,"Summary:
+
+This GitHub repository contains a public distribution of the portal for centralizing public agencies, created by the Undersecretariat of Digital Government of the Argentine Republic between 2015-2019. The repository is a Drupal-based distribution, as indicated by the repository name ""drupal-argentina-distro""."

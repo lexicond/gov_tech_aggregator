@@ -1,7 +1,9 @@
-jupyter
-requests
-python-dotenv
-pandas
+requests>=2.31.0
+PyYAML>=6.0.1
+python-dotenv>=1.0.0
+pandas>=2.1.0
+jupyter>=1.0.0
+notebook>=7.0.0
 langchain
 langchain-anthropic
 langchain_openai

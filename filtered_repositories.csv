@@ -1,0 +1,517 @@
+name,description,stars,forks,language,readme
+a11y,No description,5,8,HTML,"
+([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
+
+**Note: This pr"
+accelerators_accelerateurs-aws,[AWS] Tools and templates to accelerate GC service delivery. Outils et modèles pour accélérer la prestation de services du GC.,16,3,None specified,"# GC Accelerators (AWS)
+
+AWS has developed a project called the AWS Secure Environment Accelerator ("
+accelerators_accelerateurs-azure,[AZURE] Tools and templates to accelerate GC service delivery. Outils et modèles pour accélérer la prestation de services du GC.,37,14,PowerShell,"([Français](#gc-accelerateurs-azure))
+
+## Azure Landing Zones for Canadian Public Sector
+
+Microsoft "
+accelerators_accelerateurs-gcp,[GCP] Tools and templates to accelerate GC service delivery. Outils et modèles pour accélérer la prestation de services du GC.,10,8,HCL,"
+# GC Accelerators (GCP)
+
+[![Open this project in Google Cloud Shell](http://gstatic.com/cloudssh/im"
+aia-eia,Algorithmic Impact Assessment - Évaluation de l'incidence algorithmique (Python prototype),3,2,HTML,[![Build Status](https://travis-ci.com/canada-ca/aia-eia.svg?branch=master)](https://travis-ci.com/c
+aia-eia-js,Algorithmic Impact Assessment - Évaluation de l'incidence algorithmique (TS/JS),62,41,Vue,[![Build Status](https://travis-ci.com/canada-ca/aia-eia-js.svg?branch=master)](https://travis-ci.co
+aia-eia-js2,Algorithmic Impact Assessment - Évaluation de l'incidence algorithmique (JS Prototype),0,0,HTML,README not available
+aia-eia-net,Algorithmic Impact Assessment - Évaluation de l'incidence algorithmique (.NET prototype),1,1,JavaScript,[![Build Status](https://travis-ci.com/canada-ca/aia-eia-net.svg?branch=master)](https://travis-ci.c
+alexapoc-ccbpaymentdates,No description,0,0,JavaScript,# alexapoc-ccbpaymentdates
+alexapoc-healthcanada-recalls,Alexa Proof of Concept - Health Canada - Recalls and Safety Alerts Amazon Alexa Voice Skill,2,0,JavaScript,"# Alexa Proof of Concept
+
+--------------------------------------
+
+## Health Canada Recalls and Safet"
+alexapoc-vdpalexa,Proof-of-concept for delivering service on Alexa / Validation de principe pour la prestation de service via Alexa,10,1,None specified,"# alexapoc-vdpalexa
+
+## [English] Proof-of-concept for delivering service on Alexa
+
+To learn more, p"
+alexapoc-vrdb,No description,0,0,JavaScript,README not available
+architecture,Repository for the storage of architectural modeling ,44,19,JavaScript,"# Open Government of Canada Architecture Git Repository
+
+The canada-ca/architecture repository is me"
+Azure_LZBCA-AIZDB,Azure Landing Zone Base Cloud Architecture - Architecture infonuagique zone d'atterrissage de base,13,6,PowerShell,"# Azure_LZBCA-AIZDB
+Azure Landing Zone Base Cloud Architecture - Architecture infonuagique zone d'at"
+blog-dto,Canada.ca blog: Digital Transformation Office,3,2,HTML,"#blog-dto  
+
+Prep repo for the move
+"
+blogue-btn,blogue de Canada.ca - Bureau de la transformation numérique,1,2,HTML,"# blogue-btn
+blogue de Canada.ca - nous sommes en train de restructurer
+"
+blogue-canada-ca-blog,Canada.ca blog: Digital Transformation Office | blogue de Canada.ca - Bureau de la transformation numérique,4,9,HTML,[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.s
+caf-tg,No description,1,0,None specified,# caf-tg
+canada-bot,No description,3,1,JavaScript,"# 🤖 CanadaBot
+The Pull Request Bot for Anonymous contributions on GitHub!
+
+---
+With PRB0t you can ma"
+canada-ca-jekyll-boilerplate,A repository set as a Jekyll boilerplate to build a site with the Canada.ca template from GCWeb-Jekyll (wet-boew/gcweb-jekyll),0,6,HTML,[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.s
+canada-ca.github.io,Stories and insights about the design of Canada.ca,16,14,HTML,"# canada-ca.github.io
+Github pages: content to redirect to new blog space(s)
+
+[Alpha Blog](https://c"
+CATS-STAE,Cyber Authentication Technology - Technologie d’authentification électronique,16,1,Shell,"# Cyber Authentication Technology
+
+Cyber authentication allows individuals and businesses to securel"
+ckanext-canada,Government of Canada CKAN Extension - Extension à CKAN du Gouvernement du Canada,0,0,None specified,"# ckanext-canada
+
+Government of Canada CKAN Extension - Extension à CKAN du Gouvernement du Canada
+
+"
+cloud-guardrails,Minimum guardrails for GC's cloud operationalization framework.,97,33,JavaScript,"# GC Cloud Guardrails
+
+([Français](#mesures-de-protection-du-nuage-du-gc))
+
+**The latest version of "
+cloud-guardrails-aws,Tools to support cloud guardrails implementation and compliance checks for AWS.,14,9,Shell,"# GC Cloud Guardrails Checks for AWS
+
+This project will provide tools to validate the implementation"
+cloud-guardrails-azure,Tools to support cloud guardrails implementation and compliance checks for Microsoft Azure.,27,9,PowerShell,"# GC Cloud Guardrails Checks for Azure
+
+This project will host the minimum guardrails as part of the"
+cloud-guardrails-gcp,Recommended configuration guidance for Google Cloud Platform / Conseils de configuration recommandés pour Platforme infonuagique de Google,23,14,Open Policy Agent,"# GC Cloud Guardrails Checks for Google Cloud Platform
+
+This repository will provide the tools requi"
+cloud-guardrails-ibm,Tools to support cloud guardrails implementation and compliance checks for IBM Cloud.,4,4,JavaScript,"# Government of Canada Cloud Guardrails Checks for IBM Cloud
+
+This repository will provide the tools"
+cloud-guardrails-O365,Recommended configuration guidance for Microsoft O365 / Conseils de configuration recommandés pour Microsoft O365,36,11,JavaScript,"# GC Cloud Guardrails for O365
+
+([Français](#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-o"
+cloud-guardrails-oracle,Tools to support cloud guardrails implementation and compliance checks for Oracle.,6,2,HCL,"# GC Cloud Guardrails for Oracle
+
+This project will host the minimum guardrails as part of the GC Cl"
+atomium,The very base theme,9,5,PHP,"# Atomium
+[![Build Status](https://drone.fpfis.eu/api/badges/ec-europa/atomium/status.svg?branch=7.x"
+atomium_europa,A subtheme based on atomium for Europa,0,0,PHP,"# ECL example
+
+Requirements:
+-   Node.js >= 6.9.5
+-   yarn >= 0.20.3
+
+## Setup
+
+```
+yarn
+```
+
+## Bui"
+aws-fpfis-repo,No description,0,0,Shell,"# Staging repo to test-build RPM packages for AWS
+
+See https://travis-ci.org/ec-europa/aws-fpfis-rep"
+backtrac-php-client,Backtrac visual regression service - PHP library and phing tasks,2,0,PHP,"# Backtrac PHP client
+
+This projects includes both a client library and a phing helper to trigger vi"
+cloudformation-templates,Centrally managed templates for AWS CloudFormation,0,1,None specified,"# cloudformation-templates - DEPRECATED
+Centrally managed templates for AWS CloudFormation
+
+This rep"
+Console_Table,Library that makes it easy to build console style tables.,0,0,PHP,README not available
+content-layer-api-specs,No description,1,0,None specified,"# Content layer api definition
+"
+cope-api,No description,5,1,JavaScript,"# COPE API
+
+For more information, please read our [Documentation](./docs/README.md).
+"
+d7-contrib-updater-scripts,"Shell scripts to update core and contrib modules, respecting local changes (""hacks"").",1,1,Shell,"# Module updater scripts
+
+## Purpose
+
+Shell scripts to update core and contrib modules in Drupal 7 s"
+digit-ict-conf-2016,[DIGIT] DIGITEC Conference 2016,0,0,JavaScript,"# DIGIT-ICT Conference 2016
+
+[![Standard Version](https://img.shields.io/badge/release-standard%20ve"
+digit-ne-varnish,Nexteuropa Varnish - Drupal 7 module.,0,2,PHP,"Table of Contents
+- [Nexteuropa Varnish](#nexteuropa-varnish)
+    - [Requirements](#requirements)
+  "
+digitec,DIGITEC (preview at https://digitec.netlify.app),0,1,JavaScript,"# DIGITEC
+
+Deploys for digitec: https://app.netlify.com/sites/digitec/deploys
+
+## Getting Started (R"
+digitec-news,The event-independent website for news and past events.,0,1,JavaScript,"# DIGITEC News
+
+Deploys logs: https://app.netlify.com/sites/digitec-news2020/overview
+
+## Getting St"
+drupal-project,":rocket: Composer template for Drupal projects. Quick installation via ""composer create-project drupal-composer/drupal-project""",0,0,PHP,"# Composer template for Drupal projects
+
+[![Build Status](https://travis-ci.org/drupal-composer/drup"
+DrupalConsole,"The Drupal Console is a CLI tool to generate boilerplate code, interact and debug Drupal 8.",0,0,PHP,"<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT TH"
+DrupalDriver,A collection of drivers for controlling Drupal.,0,1,PHP,[![Build Status](https://travis-ci.org/jhedstrom/DrupalDriver.svg?branch=master)](https://travis-ci.
+drupalextension,"An integration layer between Behat, Mink Extension, and Drupal.",1,0,PHP,"# Behat Drupal Extension
+
+The Drupal Extension is an integration layer between [Behat](http://behat."
+drush-commands,No description,0,0,PHP,"# drush-module-cleanup
+
+## Installation
+
+* Put the *.inc file into your $HOME/.drush/ folder
+* Run d"
+easyrdf,EasyRdf is a PHP library designed to make it easy to consume and produce RDF.,0,0,PHP,"EasyRdf
+=======
+
+[![Build Status](https://travis-ci.org/njh/easyrdf.svg?branch=master)](https://trav"
+ec-europa-theme,Drupal 7 theme for the NextEuropa platform ,4,3,JavaScript,"# Ec-Europa theme
+Repository containing the drupal theme for the NextEuropa platform.
+
+The Ec-Europa"
+ec-europa-theme-tools,Repository containing modules and features related to the ec-europa-,2,1,PHP,"# ec-europa-theme-tools
+Repository containing modules and features related to the ec-europa-
+"
+ec-europa-tools,Repository for tools/helpers used on the NEXT-Europa project,2,0,PHP,"# EC-EUROPA Tools
+Repository for tools/helpers used on the NEXT-Europa project
+"
+ec-nems-platform,"[DIGIT] Modules, features and theme for the nems platform",0,3,PHP,"## NEMS Platform Instructions
+
+To incorporate the nems platform into your subsite project with toolk"
+ec-reps-platform,"[COMM] Modules, features and theme for the reps platform",0,4,PHP,"## REPS Platform Instructions
+
+To incorporate the REPS platform into your subsite project you need t"
+ec2-autoscaling,Automatically register new spinned servers into SALT database and give the server a correct naming + set a grain for Availability Zone,3,0,Scheme,"ec2-autoscale-reactor
+=====================
+
+This is a reactor formula, which allows the autoscaling"
+ecas-phpcas-parser,phpcas attribute parser callback for ECAS,2,1,PHP,"#EcasPhpCASParser
+
+## Why
+Default parsing of ECAS attributes is currently broken with phpCAS, 
+group"
+ecl-ssg, Node application using gatsby to generate static websites using ECL webcomponents.,0,1,TypeScript,"<p align=""center"">
+  <a href=""https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_cam"
+ecl-toolkit,ECL Toolkit,0,3,JavaScript,"# ECL Toolkit
+
+Set of tools we use to build our front-end components.
+
+## Development
+
+### Requireme"
+ecl-twig,ECL Twig Components,18,5,JavaScript,"# ECL-Twig Library
+
+[![Build Status](https://drone.fpfis.eu/api/badges/ec-europa/ecl-twig/status.svg"
+ecl-webcomponents,ECL webcomponents is a new implementation of ECL vanilla components,2,1,TypeScript,"# ECL Web-components
+
+Repository for the implementation and distribution of ECL [Europa component li"
+2021-bootcamp-gds,No description,1,23,TypeScript,"# Bootcamp - Government Digital Services - 2021
+
+A simple web application which implements a Todo li"
+2022-geekout-gds,No description,2,46,TypeScript,"# Geekout - Government Digital Services - 2022
+
+A simple web application which implements a Todo lis"
+ACE-Form-Builder,A React component for building Web forms from JSON Schema.,1,0,JavaScript,"react-jsonschema-form
+=====================
+
+[![Build Status](https://travis-ci.org/mozilla-services"
+adex-ug,ADEX User Guide,3,1,None specified,"# Asynchronous Data Exchange (ADEX)
+
+> Learn about [ADEX](https://adex.gov.sg)
+"
+amazon-linux-consul,Contains ansible playbook for installation of Consul client agent on AWS EMR cluster.,0,0,Shell,"# `amazon-linux-consul`
+
+This repository is now deprecated and has been subsumed into
+[`terraform-mo"
+ansible-rhsso-oracle,This Ansible playbook is to automate the installation to Red Hat Single-Sign-On (RHSSO) in a VM and connect it to an existing Oracle database,0,0,None specified,"# ansible-rhsso-oracle
+![](https://img.shields.io/github/release/GovTechSG/ansible-rhsso-oracle.svg?"
+apex-cloud-overview,No description,0,0,None specified,README not available
+apex-proxy-node,No description,3,1,TypeScript,"# Archived
+
+This module is no longer actively maintained and should not be used. Consider implementi"
+apex-signature-validator,HTTP Signature validator and test client for APEX ,2,2,JavaScript,"![APEX Logo](/assets/color_apex_landscape.png)
+
+# APEX Signature and JOSE Validator
+
+[![Codacy Badge"
+apex-signature-validator-server,No description,1,1,JavaScript,"![APEX Logo](/assets/color_apex_landscape.png)
+
+# APEX Signature and JOSE Validator
+
+The Apex Signat"
+attest,No description,1,0,Shell,"# attest
+
+attest is a tool for downloading terraform and verify that the SHASUM matches the archive."
+base-images,Base images used for internal builds,0,3,Shell,"# Base Containers
+
+[![Build Status](https://github.com/govtechsg/base-images/actions/workflows/build"
+batch-gen-csr,Generating CSR for L2 Security,5,3,Shell,"# APEX L2 Certificate Generation Scripts
+
+## Generate the CSR
+1. Execute git command to get the scri"
+bigchaindb-exploration,No description,0,0,HTML,"# Bigchaindb-Exploration
+
+## Quick start on bigchaindb with docker
+
+https://docs.bigchaindb.com/proj"
+butler-bot,Telegram bot for booking meeting rooms,19,15,JavaScript,"# Butler Bot
+[![Build Status](https://travis-ci.org/GovTechSG/butler-bot.svg?branch=master)](https:/"
+cert-issuer,Issues Blockcerts using the Bitcoin blockchain,0,0,Python,[![Build Status](https://travis-ci.org/blockchain-certificates/cert-issuer.svg?branch=master)](https
+cert-verifier,Python library for verifying Blockcerts,0,0,Python,[![Build Status](https://travis-ci.org/blockchain-certificates/cert-verifier.svg?branch=master)](htt
+certificate-schema,No description,1,0,JavaScript,"# MOVED TO https://github.com/OpenCerts/open-certificate
+
+## Schema Version
+
+[v1.0](https://govtechs"
+CFT-Docs,Documentation for Cloud File Transfer (CFT),0,1,HTML,"# What is CFT?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit tristique aucto"
+chatbot-notifier,This application allow sending of messages to chat group with token ecryption capabilities,5,1,Go,"# chatbot-notifier
+
+chatbot-notifier is a tool for sending message with telegram bot while securing "
+commitlint-circle,Lint all relevant commits for a change or PR on Circle CI,0,0,None specified,"> Lint all relevant commits for a change or PR on Circle CI
+
+# commitlint-circle
+
+This package is a "
+containerstack-doc-crds,This repository stores containerstack crds which meant to be published in doc portal,0,0,None specified,"# containerstack-doc-crds
+"
+crawlee-core,No description,0,0,JavaScript,"<h1 align=""center"">
+    <a href=""https://crawlee.dev"">
+        <picture>
+          <source media=""(p"
+crossplane-provider-aws,Crossplane Amazon Web Services (AWS) infrastructure provider.,0,0,Go,"# provider-aws
+
+## Overview
+
+This `provider-aws` repository is the Crossplane infrastructure provide"
+csharp-apex-api-security,🔑  C# helper utility that sign HTTP Authorization Scheme for API authentication,4,4,C#,"# APEX API C# Security Utility 
+[![Build Status](https://travis-ci.org/GovTechSG/csharp-apex-api-sec"
+cstack-ecr-repo-list,Quick UI into an AWS ECR repository,1,0,JavaScript,"# Introduction
+
+This application is built on top of [rk295/ecr-repo-list](https://github.com/rk295/e"
+cstack-quota-monitoring,Container Stack monitoring for Cloud Resource quota,0,0,JavaScript,"# cstack-quota-monitoring
+Container Stack monitoring for Cloud Resource quota
+
+Description
+========="
+dependency-check-action,Runs OWASP dependency-check on github repo,1,0,None specified,"# depedency-check-action
+Runs OWASP dependency-check on github repo
+
+## Docker Image
+
+Image [public."
+dependency-hasher,Source for dependency hasher,0,0,Shell,README not available
+developer.gov.sg-natasha-5-12,No description,0,0,HTML,"# developer.gov.sg
+
+[![Known Vulnerabilities](https://snyk.io//test/github/GovTechSG/developer.gov.s"
+.github,Alphagov organisation health files,6,19,None specified,"# .github
+
+Alphagov organisation health files
+"
+a11y,A collection of accessibility resources for developers building GOV.UK,5,4,None specified,"a11y
+====
+
+A collection of accessibility resources for developers building GOV.UK
+
+What follows is a"
+a11y-dev-workshop,No description,6,2,HTML,"# a11y-dev-workshop
+
+* [Preparation notes](preparation.md)
+* [Exercise 1](exercise1.md)
+* [Exercise "
+accessibility,A repo to organize the guidelines and best practices for accessibility at 18f.,0,2,Ruby,"# Accessibility
+This repo will contain the guidelines and best practices for 508 accessibility at 18"
+accessibility-community-notes-and-discussion,Draft accessibility guidance,21,5,None specified,"The  documents and wiki notes are available for discussion but do not constitute offical guidance
+"
+accessibility-guidance,No description,2,2,Ruby,"# Accessibility Guidance
+
+This is draft accessibility guidance for the new accessibility regulations"
+accessibility-issues,Collecting accessibility issues we find,2,4,HTML,"# Accessibility issues
+
+This tool is for collecting accessibility issues we find. This is to
+* gathe"
+accessibility-monitoring,Tool(s) for sampling/monitoring/testing accessibility of public sector websites ,3,2,PHP,"# Accessibility Monitoring
+
+Tool(s) for sampling/monitoring/testing accessibility of public sector w"
+accessibility-monitoring-platform,GDS internal system for managing the accessibility testing of public sector websites.,2,0,Python,"# GDS Accessibility Monitoring Platform
+
+The accessibility monitoring platform is to support the acc"
+accessibility-personas,Experience the web as personas with access needs,26,6,JavaScript,"# Accessibility Personas
+
+These pages include:
+
+* Documentation how to set up devices or browsers wi"
+accessibility-self-evaluation,Helps users evaluate the accessibility of their website,1,3,HTML,"# Technical Documentation
+
+This project uses the [Tech Docs Template][template], which is a [Middlem"
+accessibility-tool-audit,Automated accessibility tools audit,84,31,HTML,"# Accessibility tool audit
+
+Automated accessibility checkers can be used to help identify accessibil"
+accessible-autocomplete,"An autocomplete component, built to be accessible.",939,150,JavaScript,"# Accessible autocomplete
+
+The accessible autocomplete is a component that helps users choose answer"
+accessible-autocomplete-multiselect,"An autocomplete multi-select component, built to be accessible.",17,2,JavaScript,"# Accessible autocomplete multi select (DEPRECATED)
+
+> **NOTE**: This project is deprecated and is ["
+Accessible-Media-Player,Accessible Media Player by Nomensa,7,7,JavaScript,"# [Nomensa](http://www.nomensa.com/) - Accessible Media Player
+
+## About
+
+The Nomensa accessible med"
+account-api,An account for GOV.UK,6,3,Ruby,"# Account API
+
+Provides sign in / sign out and attribute storage functionality to
+other GOV.UK appli"
+ai-publishing-feedback-experimentation-2024,Experimentation work started in Feb 2024 on how AI could help in understanding user feedback in GOV.UK Publishing,3,0,Python,"# AI Publishing Feedback Experimentation
+
+**Archived** - Repository of experimentation that may get "
+ai-ruby-test-app-2023,Some AI stuff written in Ruby to try and understand how this stuff hangs together,0,0,HTML,"# AI for Ruby Devs
+
+**Archived** Experimentation project from the AI team in 2023.
+
+## Getting start"
+alphagov.github.io,GitHub organisation site for GDS. Also an Apache Maven repository.,23,5,HTML,"# GitHub organisation site for GDS
+
+This is the GitHub organisation site for GDS.
+
+[View this site o"
+analytics-settings-database,Export Google Analytics (GA4 and UA) settings ,1,0,Python,"## Google Analytics Settings Database
+
+This is not an officially supported Google product.
+
+This rep"
+ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",0,2,Python,"|PyPI version| |Docs badge| |Build Status|
+
+*******
+Ansible
+*******
+
+Ansible is a radically simple I"
+anthology,The GDS Library web app.,9,8,Ruby,"# Anthology
+
+An easier way to keep track of the books on your office bookshelf.
+
+* Uses Google authe"
+api-explorer,An API explorer to help people get to grips with the GOV.UK APIs,3,5,JavaScript,"## GOV.UK Api Explorer
+
+The code behind http://govuk-api.heroku.com
+
+This is a simple rack and javas"
+api-standards,No description,1,2,None specified,"# White House Web API Standards
+
+* [Guidelines](#guidelines)
+* [Pragmatic REST](#pragmatic-rest)
+* ["
+app-performance-summary,Extract and summarise performance data for the GOV.UK applications,1,2,Python,"# GOV.UK App performance summary
+
+Extracts error rate information from graphite.
+
+## Nomenclature
+
+-"
+apprentice-news,A Hacker News clone for apprentices,0,4,Ruby,# Apprentice News [![Build Status](https://travis-ci.org/alphagov/apprentice-news.svg?branch=master)
+apprentice_quiz_app,No description,0,0,Ruby,"# Quiz Application in Rails
+
+This is a basic Rails-based quiz application that allows users to creat"
+aquae-java,Aquae is a protocol for personal data exchange (PDE) in Government. This is an implementation along with a collection of tools and fixings.,0,2,Java,README not available
+aquae-match,Aquae is a protocol for personal data exchange (PDE) in Government. This is a Ruby prototype for matching identities,0,2,Ruby,"# aquae-match
+Aquae is a protocol for personal data exchange (PDE) in Government. This is a Ruby pro"
+aquae-ruby,"A Ruby implementation of Aquae, a protocol for personal data exchange in Government.",0,2,Ruby,"# Aquae
+
+This gem is a low-level library for interacting with an AQuAE (Attributes, Questions, Answe"
+ai-gov-uk-cms,Content Management System for ai.gov.uk website,0,0,Nunjucks,"# ai-gov-uk-cms
+Content Management System for ai.gov.uk website
+
+Documentation for Decap CMS can be "
+ai-gov-uk-website,No description,2,0,Nunjucks,"# AI.gov.uk site
+
+This is our repository for our [public website](https://ai.gov.uk/). The intent of"
+approval-form,No description,0,0,Python,"To run this project:
+
+    docker-compose up --build --force-recreate web
+"
+ask-ai-archive,Ask AI archive,0,1,Python,"# Ask AI
+
+**This repo is an archive - the project is no longer being maintained.**
+
+This is a Django"
+automatilib,No description,0,0,Python,"# i.AI Shared Code
+
+`automatilib` is a django package used and developed by the i.AI team within the"
+awesome-gov-datasets,A curated set of references to useful UK Government datasets ,101,6,Python,"# Awesome UK Government Datasets
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2"
+brise-bureau-hack,Incubator for AI - Paris Hackathon - Generative AI for the Public Good,0,1,Python,"# Incubator for AI: Paris Generative AI for the Public Good Hackathon
+
+> [!IMPORTANT]
+> Hackathon pr"
+caddy-chatbot,Caddy is an AI powered co-pilot for customer service functions everywhere.,19,6,Python,"# Caddy Chatbot
+
+Caddy is an LLM powered co-pilot for customer service functions everywhere. This co"
+caddy-scraper,No description,3,3,Python,"# Caddy Scraper
+
+This is the modular scraper designed for [caddy-chatbot](https://github.com/i-dot-a"
+cei,No description,0,1,Python,README not available
+consult,No description,20,6,Python,"# Consult
+
+Consult is a machine learning and LLM-powered tool to automate the processing of public c"
+cookie-cutter,No description,0,0,Python,"## Running the cookiecutter
+
+1. [Install cookiecutter](https://pypi.org/project/cookiecutter/) on yo"
+crit,Audit your docs,0,0,Python,"# 🖍️ crit: audit your docs
+
+> [!IMPORTANT]
+> This is an experiment. It is not ready for production.
+"
+cruft-iai,"Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.",0,0,Python,"## Fork Information
+
+This repository has been forked from [cruft](https://github.com/cruft/cruft) by"
+dashboard-sample,No description,1,0,Python,README not available
+django-gov-notify,A GOV.UK Notify flavoured Django email backend,0,0,Python,"# django-gov-notify, a GOV.UK Notify flavoured Django email backend
+
+![GitHub workflow](https://gith"
+django-history-example,Repo to test functionality of django-simple-history.,0,0,Python,"# django-history-example
+
+## About this project
+
+This is an example project to test the functionalit"
+ec2-github-runner,On-demand self-hosted AWS EC2 runner for GitHub Actions,0,0,JavaScript,"# On-demand self-hosted AWS EC2 runner for GitHub Actions
+
+⚠️ If you like the project, please consid"
+etf-search,Evaluation Registry Search,0,0,None specified,"This purpose of this project is to create an ""Evaluation Registry"" for the Evaluation Task Force (ET"
+frontend-exercise,No description,0,0,JavaScript,"# Frontend Challenge
+
+Develop a responsive application that fetches live data on books and users as "
+frontend-starterkit,No description,0,1,TypeScript,"# I-Dot-Ai Frontend starter kit
+
+Simply run the below. Replace `project_name`
+
+```
+npx @idotai/creat"
+fse-tech-test,Technical test for full stack engineers,0,0,Python,"# Technical test for Lead Full Stack Engineer
+
+## Scenario
+
+An AI engineer in the incubator has comp"
+gov-ai-client,No description,0,0,TypeScript,[![build](https://github.com/i-dot-ai/gov-ai-client/actions/workflows/build.yml/badge.svg?branch=mai
+gov_tech_aggregator,An aggregator for open source government code,1,1,None specified,README not available
+i-dot-ai-core-github-actions,Core github actions for projects across i-dot-ai workspace,1,1,None specified,"# i-dot-ai-core-github-actions
+Core github actions for projects across i-dot-ai workspace
+"
+lex-graph,Building a knowledge graph of UK legislation,6,0,Jupyter Notebook,"# Lex Graph 🕸️
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-s"
+local-gov-hack,No description,15,7,None specified,"# 🏙️ Local Government Innovation Hackathon
+
+> **NOTICE: The Local Government Innovation Hackathon (3"
+mvp-python-cookiecutter,Unofficial cookiecutter for a basic Python repo.,0,0,Makefile,"# Minimal Python Cookiecutter
+
+This is a very basic Python Cookiecutter repo.
+
+
+## How to use this
+
+"
+platform-terraform-test,No description,0,0,HCL,"# I.AI Platform AWS / Terraform Exercise
+
+### Intro
+
+- This is a pair programming task designed to t"
+redactomatic,A Streamlit app for redacting documents with Presidio,4,1,Python,"# Redact-o-matic
+
+A Streamlit app to help you redact documents!
+
+![Redact-o-matic](images/app_screen"

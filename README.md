@@ -1,6 +1,22 @@
 # Government GitHub Repository Analysis - Technical Assessment
 
-This technical assessment involves analyzing government GitHub repositories using Python. The task requires setting up a development environment, working with GitHub's API, and processing data from various government repositories.
+Welcome to the AI Scan technical challenge for i.AI 👩‍💻
+The Prime Minister wants to ensure that we are making the most of international GovTech! In this exercise, you'll be asked to scan international AI codebases using your AI and scanning skills.
+This technical assessment can involves analyzing government GitHub repositories using Python, however, we're open to any approach that demonstrates your capabilities!
+
+## Challenge Structure
+This interview will take place over 4 hours.
+- **Part 1**: Analyse the Government Github Community: https://government.github.com/community/
+- **Part 2**: Present your analysis and proposed approach in any format you are looking for
+
+Please send a copy of your outputs to your HR contact. If relevant please include a zip file of your code.
+
+## Guidelines
+* Try to build an efficient and fast solution
+* Focus on clean, maintainable code
+* Be prepared to talk about key decisions and tradeoffs
+* There is no single correct solution that we are looking for
+* You are not expected to complete the entire challenge, but you should be able to explain how you could get there
 
 ## Prerequisites
 

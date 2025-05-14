@@ -17,6 +17,11 @@ Some potential topics that you could investigate are the below:
 - How would you think about the UK Government's strategy differently after reviewing other country's approaches?
 - How could we build a technical solution that could productise the scan of international Githubs?
 
+## Different Archetypes of Solutions
+We would like you to use this task to showcase your technical skillset spike.
+We will deliberately hiring a range of technical capbilities within the team beyond a base level of comfort with coding and AI.
+For those who are more comfortable with production grade software, we would encourage you to build off this codebase into a working prototype.
+
 ## Challenge Structure
 This interview will take place over 4 hours.
 - **Part 1**: Analyse the Government Github Community: https://government.github.com/community/

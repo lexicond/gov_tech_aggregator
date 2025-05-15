@@ -4,11 +4,11 @@ Welcome to the AI Scan technical challenge for i.AI 👩‍💻
 
 The Prime Minister wants to ensure that we are making the most of international GovTech! In this exercise, you'll be asked to scan international AI codebases using your AI and scanning skills.
 
-This technical assessment can involves analyzing Government GitHub repositories using methods of your choice, we're open to any approach that demonstrates your capabilities, however, we have provided you with a python pre-built notebook that provides some initial results.
+This technical assessment can involve analysing Government GitHub repositories using methods of your choice, we're open to any approach that demonstrates your capabilities, however, we have provided you with a python pre-built notebook that provides some initial results.
 
 ## Potential Opportunities
 The choice of AI opportunity to pursue is yours! 
-Some potential topics that you could investigate are the below:
+Some potential topics that you could investigate are below:
 
 - What are specific projects that i.AI can use or collaborate with? What would be the next steps?
 - Are there areas of duplication? Where can we make efficiencies by deduplicating across the world?
@@ -21,6 +21,13 @@ Some potential topics that you could investigate are the below:
 We would like you to use this task to showcase your technical skillset spike.
 We will deliberately hiring a range of technical capbilities within the team beyond a base level of comfort with coding and AI.
 For those who are more comfortable with production grade software, we would encourage you to build off this codebase into a working prototype.
+For those who are not as comfortable, please feel free to use other AI methods to solve this problem. Please note that this will not score as highly on the technical score.
+
+## Scoring
+We will be assessing over 3 criteria:
+- Impact of analysis
+- Technical capability shown
+- Communication
 
 ## Challenge Structure
 This interview will take place over 4 hours.

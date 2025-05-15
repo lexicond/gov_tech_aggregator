@@ -19,8 +19,11 @@ Some potential topics that you could investigate are below:
 
 ## Different Archetypes of Solutions
 We would like you to use this task to showcase your technical skillset spike.
+
 We will deliberately hiring a range of technical capbilities within the team beyond a base level of comfort with coding and AI.
+
 For those who are more comfortable with production grade software, we would encourage you to build off this codebase into a working prototype.
+
 For those who are not as comfortable, please feel free to use other AI methods to solve this problem. Please note that this will not score as highly on the technical score.
 
 ## Scoring

@@ -6,7 +6,12 @@ The Prime Minister wants to ensure that we are making the most of international 
 
 This technical assessment can involve analysing Government GitHub repositories using methods of your choice, we're open to any approach that demonstrates your capabilities, however, we have provided you with a python pre-built notebook that provides some initial results.
 
-## Potential Opportunities
+## Challenge Structure
+This interview will take place over 4 hours.
+- **Part 1**: Analyse the Government Github Community: https://government.github.com/community/ to identify potential opportunities
+- **Part 2**: Present your analysis, method and results
+
+## Potential Opportunities for analysis
 The choice of AI opportunity to pursue is yours! 
 Some potential topics that you could investigate are below:
 
@@ -26,17 +31,18 @@ For those who are more comfortable with production grade software, we would enco
 
 For those who are not as comfortable, please feel free to use other AI methods to solve this problem. Please note that this will not score as highly on the technical score.
 
+## Presentation options
+We encourage you to share:
+- A google slides / powerpoint and/or recorded video presenting your analysis
+- A zip file of your code (as relevant)
+The presentation should be sufficient to understand your analysis, method and results without the need to run your code locally.
+Please send a copy of your outputs to your HR contact. 
+
 ## Scoring
 We will be assessing over 3 criteria:
 - Impact of analysis
 - Technical capability shown
 - Communication
-
-## Challenge Structure
-This interview will take place over 4 hours.
-- **Part 1**: Analyse the Government Github Community: https://government.github.com/community/
-- **Part 2**: Present your analysis and approach in any format you find most appropriate
-Please send a copy of your outputs to your HR contact. If relevant please include a zip file of your code.
 
 ## Guidelines
 * Try to use AI tools, we actively encourage their use
@@ -55,8 +61,8 @@ The pipeline is particularly useful for:
 - Creating a searchable database of government GitHub repositories
 
 ## Time Estimate for using the Aggregator
-- Setup: 10 minutes
-- Implementation: 10 mins
+- Setup: ~10 minutes
+- Implementation: ~10 mins
 
 ## Prerequisites
 

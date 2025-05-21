@@ -35,7 +35,9 @@ For those who are not as comfortable, please feel free to use other AI methods t
 We encourage you to share:
 - A google slides / powerpoint and/or recorded video presenting your analysis
 - A zip file of your code (as relevant)
+
 The presentation should be sufficient to understand your analysis, method and results without the need to run your code locally.
+
 Please send a copy of your outputs to your HR contact. 
 
 ## Scoring

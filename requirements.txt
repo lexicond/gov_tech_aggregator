@@ -7,5 +7,6 @@ notebook>=7.0.0
 langchain
 langchain-anthropic
 langchain_openai
+langchain-community
 pydantic
 tqdm

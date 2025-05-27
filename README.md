@@ -100,10 +100,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-If requirements.txt is not available, install the following packages:
-```bash
-pip install requests PyYAML python-dotenv pandas jupyter
-```
 
 ### 4. GitHub Token Setup
 

@@ -121,7 +121,7 @@ pip install -r requirements.txt
    - **IMPORTANT**: Copy the token immediately - you won't see it again!
 
 2. **Create .env File**:
-   - Create a new file named `.env` in the project root
+   - Create a new file named `.env` in the project root. Please make a copy of the env.example file for appropriate format.
    - Add your token:
    ```
    GITHUB_TOKEN=your_token_here
@@ -158,6 +158,11 @@ The notebook contains code to:
   - Correctly copied to the `.env` file
   - Has the required permissions
   - Hasn't expired
+ 
+### OpenAI API
+- Azure OpenAI Configuration is outlined in the env.example file including endpoint and deployment name
+- OpenAI API Key will be provided by your HR contact and should contain enough credit for completion of the task
+- If you have any issues with the OpenAI API, please contact the person outlined in the email from your HR contact
 
 ### Environment Issues
 - If packages aren't found, ensure:
